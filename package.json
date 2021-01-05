@@ -10,7 +10,7 @@
     "@ckeditor/ckeditor5-paragraph": "^11.0.0",
     "@ckeditor/ckeditor5-react": "^1.1.2",
     "antd": "^3.15.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "firebase": "^7.4.0",
